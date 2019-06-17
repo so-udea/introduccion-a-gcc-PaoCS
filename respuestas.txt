@@ -1,0 +1,9 @@
+> ¿Qué hacen los parametros argc y argv?
+
+Los parámetros argc y argv son parametros para el punto de entrada del ejecutable, los cuales corresponden respectivamente al número de parámetros que tendrá la ejecución y los valores correspondientes a dichos parámetros.
+
+> ¿Cómo se usa el programa?
+
+Al momento de correr el ejecutable tenemos que enviar desde la linea de comandos los parametros que va a usar el programa. Lo hacemos luego del comando que corre el ejecutable y separados por espacios; de la siguiente manera:
+
+./ejecutable DEBUG -file archivo.txt
