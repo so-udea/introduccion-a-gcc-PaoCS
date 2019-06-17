@@ -6,7 +6,7 @@ atof y atod
 
 _Existen funciones que convierten valores numericos a cadenas de caracteres ¿cuales?
 
-Haciendo uso de la función sprintf podemos realizar una asignación de un valor, digamos entero, a una cadena de caracteres definido anteriormente. Ejemplo:
-
+Una opción es usar la función itoa.
+Otra forma es hacer uso de la función sprintf podemos realizar una asignación de un valor, digamos entero, a una cadena de caracteres definido anteriormente. Ejemplo:
 sprintf(stringVar, "%d", intVar);
 
