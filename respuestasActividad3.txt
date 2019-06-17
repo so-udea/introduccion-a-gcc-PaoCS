@@ -1,0 +1,12 @@
+_¿Qué hace la funcion atoi?
+Convierte una cadena de carácteres en un entero. 
+
+_Ademas de atoi existen otras funciones que permitan convertir cadenas de caracteres a numeros reales ¿cuales?
+atof y atod 
+
+_Existen funciones que convierten valores numericos a cadenas de caracteres ¿cuales?
+
+Haciendo uso de la función sprintf podemos realizar una asignación de un valor, digamos entero, a una cadena de caracteres definido anteriormente. Ejemplo:
+
+sprintf(stringVar, "%d", intVar);
+
